@@ -1,0 +1,1 @@
+The idea behind this project is to be able to use the devtools behind chrome to build a replica of the google.com page. This demonstrates my ability to understand the basic elements of the html and css on the site and replicate them.
